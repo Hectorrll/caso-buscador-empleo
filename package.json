@@ -1,0 +1,9 @@
+{
+  "name": "caso-buscador-empleo",
+  "version": "0.1.0",
+  "description": "Juez de reglas para filtrar y priorizar ofertas de empleo contra un perfil, sin IA ni scraping.",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": { "test": "node --test" }
+}

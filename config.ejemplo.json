@@ -1,0 +1,75 @@
+{
+  "candidato": {
+    "estudios": "Bachiller en Computación (sin universidad)",
+    "zona": "Ciudad de Guatemala",
+    "area": "Administrativa / Computación",
+    "resumen": "Bachiller en Computación, sin universidad ni inglés, con menos de 1 año de experiencia. Usuario avanzado de IA: trabaja con agentes de código (no solo chat) para automatizar tareas y multiplicar su productividad, aunque no programa por su cuenta. Busca un puesto de entrada administrativo o digital, 100% en computadora, remoto o híbrido en Ciudad de Guatemala; presencial solo con horario flexible. No trabaja sábados ni domingos."
+  },
+  "duros": {
+    "salario_piso_Q": 4252.28,
+    "salario_nota": "Piso = max(Q4,000 pedido, salario mínimo 2026 CE1 no agrícola: Q4,002.28 base + Q250 bonificación, AG 256-2025)",
+    "sin_ingles_requerido": true,
+    "sin_universidad": true,
+    "experiencia_max_apto": 1,
+    "experiencia_max_revisar": 2,
+    "presencial_requiere_flexible": true,
+    "descartar_palanca_ia_baja": true,
+    "experiencia_estricta_max_apto": 0,
+    "descartar_fin_de_semana": true,
+    "call_center_solo_remoto": true,
+    "vehiculo": { "moto": "descartar", "carro_o_licencia": "revisar" },
+    "ubicacion": ["Guatemala Ciudad", "híbrido", "remoto"],
+    "empresas_excluidas": []
+  },
+  "preferencias": [
+    "remoto le gana a híbrido; híbrido le gana a presencial; presencial solo con horario flexible",
+    "trabajo 100% en computadora donde la IA y los agentes de código multiplican el rendimiento: datos, reportes, Excel/Sheets, documentación, CRM, soporte, redes sociales",
+    "puesto de entrada: sin experiencia o hasta 1 año",
+    "área administrativa o de computación por encima de ventas; call center solo si es 100% remoto",
+    "nunca trabaja sábados ni domingos"
+  ],
+  "busqueda": {
+    "base_url": "https://gt.computrabajo.com",
+    "fuentes": [
+      "/empleos-en-guatemala",
+      "/trabajo-de-administracion-en-guatemala",
+      "/trabajo-de-informatica-en-guatemala",
+      "/trabajo-de-contabilidad-en-guatemala",
+      "/trabajo-de-atencion-al-cliente-en-guatemala",
+      "/trabajo-de-recursos-humanos-en-guatemala",
+      "/empleos-en-remoto",
+      "/empleos-hibrido"
+    ],
+    "paginas_max": 250,
+    "detalles_max_por_corrida": 400,
+    "primera_tanda_tope": 0,
+    "releer_ms": 86400000,
+    "pausa_ms": 1200,
+    "concurrencia_jev": 6,
+    "sitios": {
+      "tecoloco": { "activo": true, "base_url": "https://www.tecoloco.com.gt", "fuentes": ["/empleos"], "por_pagina": 100 },
+      "getonboard": { "activo": true, "fuentes": ["customer-support", "operations-management", "digital-marketing", "technical-support", "hr", "sales", "data-science-analytics", "design-ux", "education-coaching", "advertising-media", "other"], "usd_a_q": 7.7 },
+      "linkedin": { "activo": true, "fuentes": ["guatemala", "latam:remoto"], "ventana_horas": 48, "pausa_ms": 2000, "releer_ms": 604800000 },
+      "workana": {
+        "activo": true,
+        "fuentes": [
+          "admin-support/virtual-assistant-1", "admin-support/customer-support", "admin-support/data-entry-1",
+          "admin-support/market-research-1", "admin-support/telesales", "admin-support/artificial-intelligence-3",
+          "admin-support/others-2", "sales-marketing/community-management", "sales-marketing/data-analytics",
+          "sales-marketing/artificial-intelligence-6", "writing-translation/content-for-social-networks",
+          "writing-translation/artificial-intelligence-7", "finance-management/gather-data",
+          "finance-management/work-with-a-crm", "finance-management/artificial-intelligence-5",
+          "it-programming/artificial-intelligence-1"
+        ],
+        "publicacion": "3d",
+        "max_propuestas": 30,
+        "telegram": false,
+        "pausa_ms": 2000
+      }
+    }
+  },
+  "revisar": {
+    "p_minima": 0.35,
+    "p_hibrido_fuera_metro": 0.15
+  }
+}
