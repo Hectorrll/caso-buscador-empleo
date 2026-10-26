@@ -1,0 +1,79 @@
+[
+  {
+    "card": {
+      "id": "demo-1",
+      "titulo": "Asistente Jr. de Cobros Venta Directa",
+      "empresa": "Empresa A",
+      "ubicacion": "Mixco, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Asistente Jr. de Cobros Venta Directa - Zona 4 de Mixco",
+      "empresa": "Empresa A",
+      "ubicacion": "Mixco, Guatemala",
+      "salarioTag": "4,500.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Gestión y seguimiento de cobros de la cartera de venta directa, asegurando la recuperación oportuna de pagos pendientes. Requisitos: Graduado de diversificado. Experiencia en posiciones atención al cliente o cobros. Manejo de Excel a nivel intermedio o avanzado. Capacidad de aprendizaje rápido. Excelentes habilidades de comunicación y relaciones interpersonales. Persona proactiva, organizada y orientada al detalle. Ofrecemos: Salario competitivo. Bono trimestral sujeto a métricas clave. Seguro de vida. Oportunidad de crecimiento Modalidad hibrida.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 18 y 28 años",
+        "Conocimientos: Autoaprendizaje, Comunicación, Cobro de cartera, Cobros, Microsoft excel, Atención al cliente"
+      ]
+    }
+  },
+  {
+    "card": {
+      "id": "demo-2",
+      "titulo": "Dibujante de Autocad y Revit",
+      "empresa": "Empresa B",
+      "ubicacion": "Santa Catarina Pinula, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Dibujante de Autocad y Revit",
+      "empresa": "Empresa B",
+      "ubicacion": "Santa Catarina Pinula, Guatemala",
+      "salarioTag": "5,000.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: • Bachiller en Dibujo en Construcción o simliar. • Manejo de AutoCAD. • Conocimientos de Revit. • Proactividad, organización y atención al detalle. • Disponibilidad de trabajar en Santa Catarina Pinula Ofrecemos: • Jornada de lunes a viernes • Posibilidad de home office • Oportunidad de crecimiento profesional.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "Menos de 1 año de experiencia",
+        "Conocimientos: Autocad, Dibujo técnico, Revit"
+      ]
+    }
+  },
+  {
+    "card": {
+      "id": "demo-3",
+      "titulo": "Agente de Call Center",
+      "empresa": "Empresa C",
+      "ubicacion": "Mixco, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Agente de Call Center - Atención al usuario",
+      "empresa": "Empresa C",
+      "ubicacion": "Mixco, Guatemala",
+      "salarioTag": "4,255.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: - Graduado (a) de Bachillerato en computación o similares - Experiencia de 1 año en atención al cliente - Disponibilidad de trabajar en Sede zona 2 de Mixco - Disponibilidad de horario para trabajar de lunes a viernes y sábado medio día Ofrecemos : - Prestaciones de Ley - Paquete de beneficios adicionales a los de ley - Capacitaciones y Desarrollo",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 28 años",
+        "Conocimientos: Microsoft excel, Soporte al cliente, Atención al cliente"
+      ]
+    }
+  }
+]
