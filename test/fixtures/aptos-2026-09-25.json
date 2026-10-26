@@ -1,0 +1,454 @@
+[
+  {
+    "id": "3D339CF0F9944B1A61373E686DCF3405",
+    "nota": "Etiqueta híbrido falsa: sede zona 2 Mixco + sábado medio día",
+    "card": {
+      "id": "3D339CF0F9944B1A61373E686DCF3405",
+      "titulo": "Agente de Call Center",
+      "empresa": "",
+      "ubicacion": "Mixco, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Agente de Call Center - Atención al usuario",
+      "empresa": "Importante empresa del sector",
+      "ubicacion": "Mixco, Guatemala",
+      "salarioTag": "4,255.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: - Graduado (a) de Bachillerato en computación o similares - Experiencia de 1 año en atención al cliente - Disponibilidad de trabajar en Sede zona 2 de Mixco - Disponibilidad de horario para trabajar de lunes a viernes y sábado medio día Ofrecemos : - Prestaciones de Ley - Paquete de beneficios adicionales a los de ley - Capacitaciones y Desarrollo",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 28 años",
+        "Conocimientos: Microsoft excel, Soporte al cliente, Atención al cliente"
+      ],
+      "palabrasClave": "Palabras clave: demostrador, feriante, viajante, agent, representative, agente, representante, callcenter, teleoperador, telefonista, telephonist, telefonico, care",
+      "fechaTexto": "Hace 2 días"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "no",
+      "horarioFlexible": "no",
+      "modalidad": "presencial",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "no_dice"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "fin_de_semana",
+        "call_center_no_remoto",
+        "ubicacion"
+      ]
+    }
+  },
+  {
+    "id": "87E667EC251C03AB61373E686DCF3405",
+    "nota": "Home office real pero exige Bachiller en Dibujo de Construcción + AutoCAD/Revit",
+    "card": {
+      "id": "87E667EC251C03AB61373E686DCF3405",
+      "titulo": "Dibujante de Autocad y Revit",
+      "empresa": "Empresa A",
+      "ubicacion": "Santa Catarina Pinula, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Dibujante de Autocad y Revit",
+      "empresa": "Empresa A",
+      "ubicacion": "Santa Catarina Pinula, Guatemala",
+      "salarioTag": "5,000.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: • Bachiller en Dibujo en Construcción o simliar. • Manejo de AutoCAD. • Conocimientos de Revit. • Proactividad, organización y atención al detalle. • Disponibilidad de trabajar en Santa Catarina Pinula Ofrecemos: • Jornada de lunes a viernes • Posibilidad de home office • Oportunidad de crecimiento profesional.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "Menos de 1 año de experiencia",
+        "Conocimientos: Autocad, Dibujo técnico, Revit"
+      ],
+      "palabrasClave": "Palabras clave: draftsman, draughtsman, dibujante, deliniante",
+      "fechaTexto": "Hace más de 30 días"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "otra_especialidad",
+      "vehiculo": "no_pide",
+      "finDeSemana": "si",
+      "horarioFlexible": "no",
+      "modalidad": "hibrido",
+      "area": "otro",
+      "palancaIA": "alta",
+      "experienciaExigencia": "flexible"
+    },
+    "esperado": {
+      "veredicto": "REVISAR",
+      "motivosIncluye": [
+        "formacion_especifica"
+      ]
+    }
+  },
+  {
+    "id": "9977B25C393E40D261373E686DCF3405",
+    "nota": "Híbrido confirmado en texto, cobros de cartera desde oficina, Excel",
+    "card": {
+      "id": "9977B25C393E40D261373E686DCF3405",
+      "titulo": "Asistente Jr. de Cobros Venta Directa",
+      "empresa": "Empresa B",
+      "ubicacion": "Mixco, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Asistente Jr. de Cobros Venta Directa - Zona 4 de Mixco",
+      "empresa": "Empresa B",
+      "ubicacion": "Mixco, Guatemala",
+      "salarioTag": "4,500.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Gestión y seguimiento de cobros de la cartera de venta directa, asegurando la recuperación oportuna de pagos pendientes. Requisitos: Graduado de diversificado. Experiencia en posiciones atención al cliente o cobros. Manejo de Excel a nivel intermedio o avanzado. Capacidad de aprendizaje rápido. Excelentes habilidades de comunicación y relaciones interpersonales. Persona proactiva, organizada y orientada al detalle. Ofrecemos: Salario competitivo. Bono trimestral sujeto a métricas clave. Seguro de vida. Oportunidad de crecimiento Modalidad hibrida.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 18 y 28 años",
+        "Conocimientos: Autoaprendizaje, Comunicación, Cobro de cartera, Cobros, Microsoft excel, Atención al cliente"
+      ],
+      "palabrasClave": "Palabras clave: ayudante, asistente, auxiliar, aux, auxiliary, assistant, helper, aide, junior, area",
+      "fechaTexto": "Hace 11 horas (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "administrativo_con_numeros",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "no_dice",
+      "horarioFlexible": "no_dice",
+      "modalidad": "hibrido",
+      "area": "administrativa",
+      "palancaIA": "media",
+      "experienciaExigencia": "no_dice"
+    },
+    "esperado": {
+      "veredicto": "APTO",
+      "motivosIncluye": []
+    }
+  },
+  {
+    "id": "E54E1FAB9225F1D461373E686DCF3405",
+    "nota": "Call center remoto real (permitido) pero cobranza 1 año obligatorio; candidato <1 año",
+    "card": {
+      "id": "E54E1FAB9225F1D461373E686DCF3405",
+      "titulo": "Gestor de Cobro Telefónico",
+      "empresa": "Empresa C",
+      "ubicacion": "San Felipe, Retalhuleu"
+    },
+    "detalle": {
+      "titulo": "Gestor de Cobro Telefónico - (con experiencia)",
+      "empresa": "Empresa C",
+      "ubicacion": "San Felipe, Retalhuleu",
+      "salarioTag": "7,000.00 Q (Mensual) + Comisiones",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Remoto"
+      ],
+      "descripcion": "Contacto telefónico con clientes con pagos vencidos Gestión y seguimiento de cuentas en mora Negociación de acuerdos y planes de pago Asesoría a clientes para la regularización de su deuda Registro de gestiones en el sistema CRM Cumplimiento de políticas y guiones de cobranza Requisitos: Experiencia previa en cobranza / call center / collections (deseable) Excelentes habilidades de comunicación y negociación Enfoque en resultados y cumplimiento de metas Manejo básico de computadora Tolerancia al trabajo bajo presión Ofrecemos: Sueldo competitivo + bonos atractivos Capacitación inicial pagada Posibilidades reales de crecimiento Excelente ambiente laboral Experiencia: cobranza: 1 año (Obligatorio) Ubicación del trabajo: Empleo remoto",
+      "requerimientos": [
+        "Educación mínima: Educación Básica Secundaria",
+        "1 año de experiencia",
+        "Edad: entre 20 y 38 años"
+      ],
+      "palabrasClave": "Palabras clave: residente, encargado, supervisor, subgerente, responsable, coordinador, gestor, capitan, cobranza, cobro, payment, collection, call, callcenter, teleoperador, telefonista, telephonist, telefonico",
+      "fechaTexto": "Hace 17 horas (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "sin_estudios",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "no_dice",
+      "horarioFlexible": "no_dice",
+      "modalidad": "remoto",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "estricta"
+    },
+    "esperado": {
+      "veredicto": "REVISAR",
+      "motivosIncluye": [
+        "experiencia_estricta"
+      ]
+    }
+  },
+  {
+    "id": "BD95552EB28E18D561373E686DCF3405",
+    "nota": "Igual al 3D339: sede Mixco + sábados",
+    "card": {
+      "id": "BD95552EB28E18D561373E686DCF3405",
+      "titulo": "Agente de Call Center",
+      "empresa": "",
+      "ubicacion": "Mixco, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Agente de Call Center",
+      "empresa": "Importante empresa del sector",
+      "ubicacion": "Mixco, Guatemala",
+      "salarioTag": "4,255.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Atención a clientes por llamada y WhatsApp, resolución de dudas y retención de pedidos. Brindar información de logística al cliente y generar reportes. Requisitos: - Graduado (a) de Bachillerato en computación o similares - Experiencia en atención al cliente o soporte de atención por medio de tickets - Disponibilidad de trabajar en zona 2 Mixco. - Disponibilidad de horario para trabajar de lunes a viernes y sábado medio día. Ofrecemos : - Prestaciones de Ley - Paquete de beneficios adicionales a los de ley - Capacitaciones y Desarrollo -Parqueo Gratuito.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 28 años",
+        "Conocimientos: Microsoft excel, Soporte al cliente, Atención al cliente"
+      ],
+      "palabrasClave": "Palabras clave: demostrador, feriante, viajante, agent, representative, agente, representante, callcenter, teleoperador, telefonista, telephonist, telefonico",
+      "fechaTexto": "Hace 2 días (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "no",
+      "horarioFlexible": "no",
+      "modalidad": "presencial",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "no_dice"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "fin_de_semana",
+        "call_center_no_remoto",
+        "ubicacion"
+      ]
+    }
+  },
+  {
+    "id": "10482F00ECE1195861373E686DCF3405",
+    "nota": "Lunes a domingo rotativo, sede zona 4",
+    "card": {
+      "id": "10482F00ECE1195861373E686DCF3405",
+      "titulo": "Call Center",
+      "empresa": "",
+      "ubicacion": "Guatemala Ciudad, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Call Center - Atención al usuario",
+      "empresa": "Importante empresa del sector",
+      "ubicacion": "Guatemala Ciudad, Guatemala",
+      "salarioTag": "4,255.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: - Graduado (a) de Bachillerato en computación o similares - Experiencia de 1 año en atención al cliente - Disponibilidad de trabajar en Sede zona 4 capital - Disponibilidad de horario para trabajar de lunes a domingo (1 día descanso entre semana) - Disponibilidad para laborar en horarios rotativos Ofrecemos : - Prestaciones de Ley - Paquete de beneficios adicionales a los de ley - Capacitaciones y Desarrollo",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 28 años",
+        "Conocimientos: Microsoft excel, Soporte al cliente, Atención al cliente"
+      ],
+      "palabrasClave": "Palabras clave: callcenter, teleoperador, telefonista, telephonist, telefonico, care",
+      "fechaTexto": "Hace 7 días (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "rotativo",
+      "horarioFlexible": "no",
+      "modalidad": "presencial",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "no_dice"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "fin_de_semana",
+        "call_center_no_remoto",
+        "presencial_fijo"
+      ]
+    }
+  },
+  {
+    "id": "E27B7B64B3696D0F61373E686DCF3405",
+    "nota": "Mismo texto que 10482",
+    "card": {
+      "id": "E27B7B64B3696D0F61373E686DCF3405",
+      "titulo": "Call Center",
+      "empresa": "Empresa D",
+      "ubicacion": "Guatemala Ciudad, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Call Center - Atención al usuario",
+      "empresa": "Empresa D",
+      "ubicacion": "Guatemala Ciudad, Guatemala",
+      "salarioTag": "4,255.00 Q (Mensual)",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Requisitos: - Graduado (a) de Bachillerato en computación o similares - Experiencia de 1 año en atención al cliente - Disponibilidad de trabajar en Sede zona 4 capital - Disponibilidad de horario para trabajar de lunes a domingo (1 día descanso entre semana) - Disponibilidad para laborar en horarios rotativos Ofrecemos : - Prestaciones de Ley - Paquete de beneficios adicionales a los de ley - Capacitaciones y Desarrollo",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 28 años",
+        "Conocimientos: Microsoft excel, Soporte al cliente, Atención al cliente"
+      ],
+      "palabrasClave": "Palabras clave: callcenter, teleoperador, telefonista, telephonist, telefonico, care",
+      "fechaTexto": "Hace 2 días (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "no_pide",
+      "finDeSemana": "rotativo",
+      "horarioFlexible": "no",
+      "modalidad": "presencial",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "no_dice"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "fin_de_semana",
+        "call_center_no_remoto",
+        "presencial_fijo"
+      ]
+    }
+  },
+  {
+    "id": "B4C689A0C95F47AC61373E686DCF3405",
+    "nota": "Descripción pide mínimo 2 años (ficha dice 1), sábados, call center híbrido, moto/carro",
+    "card": {
+      "id": "B4C689A0C95F47AC61373E686DCF3405",
+      "titulo": "Ejecutivo Call Center",
+      "empresa": "Empresa E",
+      "ubicacion": "Chinautla, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Ejecutivo Call Center - Chinautla, Zona 6",
+      "empresa": "Empresa E",
+      "ubicacion": "Chinautla, Guatemala",
+      "salarioTag": "5,000.00 Q (Mensual) + Comisiones",
+      "otrosTags": [
+        "Contrato por tiempo indefinido",
+        "Tiempo Completo",
+        "Presencial y remoto"
+      ],
+      "descripcion": "Buscamos Agentes de Telemarketing con entusiasmo, brindando atención y soporte a nuestros clientes vía telefónica o correo electrónico, garantizando un servicio ágil, cordial y eficiente en el seguimiento de paquetería. Requisitos: Graduado a nivel diversificado. Excelente comunicación y presentación personal. Dominio de redacción y ortografía. Capacidad de organización. Pasión por el servicio al cliente. Experiencia mínima de 2 años en call center o atención al cliente. Deseable experiencia en banca, retail o empresas de logística o similar. Disponibilidad de lunes a viernes de 8:00 a 17:00 y sábados de 8:00 a 12:00 Contar con medio de transporte moto/Carro Ofrecemos: Salario base Q4,003.00 + bono de ley Q250.00 + bono de KPI Q 1,000 Seguro de vida consultas medicas Parqueo Trabajo home office y presencial",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia",
+        "Edad: entre 20 y 35 años",
+        "Licencias de conducir: automóviles / carros"
+      ],
+      "palabrasClave": "Palabras clave: directivo, mando, gobierno, regencia, executive, managing, ejecutivo, callcenter, teleoperador, telefonista, telephonist, telefonico, area",
+      "fechaTexto": "Hace 4 días"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "no_contable",
+      "nivel": "intermedio",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "carro_o_licencia",
+      "finDeSemana": "no",
+      "horarioFlexible": "no",
+      "modalidad": "hibrido",
+      "area": "call_center",
+      "palancaIA": "media",
+      "experienciaExigencia": "estricta"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "fin_de_semana",
+        "call_center_no_remoto"
+      ]
+    }
+  },
+  {
+    "id": "BA22D50ACA5C962061373E686DCF3405",
+    "nota": "\"Flexibilidad horaria\" es exigida al candidato, no ofrecida; presencial en taller",
+    "card": {
+      "id": "BA22D50ACA5C962061373E686DCF3405",
+      "titulo": "Asesor/a administrativo/a",
+      "empresa": "",
+      "ubicacion": "Guatemala Ciudad, Guatemala"
+    },
+    "detalle": {
+      "titulo": "Asesor/a administrativo/a",
+      "empresa": "Importante empresa del sector",
+      "ubicacion": "Guatemala Ciudad, Guatemala",
+      "salarioTag": "4,400.00 Q (Mensual)",
+      "otrosTags": [
+        "Otro tipo de contrato",
+        "Tiempo Completo"
+      ],
+      "descripcion": "Buscamos un Asesor Administrativo con experiencia en Centros de Servicio comprometido y con vocación de servicio para unirse a su equipo. Esta posición es fundamental para garantizar el buen funcionamiento administrativo del taller y la satisfacción de nuestros clientes. El candidato ideal será organizado, proactivo y tendrá experiencia en la gestión administrativa y operativa en un entorno de servicio. Responsabilidades Clave: • Gestión de Repuestos: Cotización, compra y entrega de repuestos, asegurando la disponibilidad oportuna para los técnicos. • Control de Inventarios: Control y seguimiento detallado de inventarios físicos y digitales de repuestos y materiales. • Órdenes de Trabajo: Apertura, control y seguimiento de las órdenes de trabajo para cada vehículo. • Facturación y Caja: Procesos de facturación y gestión de caja de forma precisa. • Atención al Cliente: Recepción de vehículos y atención a los clientes durante su visita al taller. Perfil del Candidato: • Formación y Conocimiento: Conocimiento sólido sobre procesos administrativos de centros de servicio automotriz. • Licencia de Conducir: Poseer licencia de conducir. • Habilidades: Excelente orientación al servicio al cliente y habilidades de comunicación. • Experiencia: Mínimo de 1 año en funciones administrativas similares. • Disponibilidad: Flexibilidad horaria para cumplir con las necesidades del taller. • Comisiones: Comisiones por productividad.",
+      "requerimientos": [
+        "Educación mínima: Bachillerato / Educación Media",
+        "1 año de experiencia"
+      ],
+      "palabrasClave": "Palabras clave: advisor, asesor, administrative",
+      "fechaTexto": "Hace 3 días (actualizada)"
+    },
+    "flagsCorrectos": {
+      "ingles": "no_pide",
+      "estudios": "bachillerato_o_tecnico",
+      "perfilContable": "administrativo_con_numeros",
+      "nivel": "entrada",
+      "formacionEspecifica": "general_o_computacion",
+      "vehiculo": "carro_o_licencia",
+      "finDeSemana": "no_dice",
+      "horarioFlexible": "no",
+      "modalidad": "presencial",
+      "area": "administrativa",
+      "palancaIA": "media",
+      "experienciaExigencia": "estricta"
+    },
+    "esperado": {
+      "veredicto": "DESCARTADO",
+      "motivosIncluye": [
+        "presencial_fijo"
+      ]
+    }
+  }
+]
